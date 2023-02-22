@@ -23,7 +23,7 @@ Task 2
 5. The final step is to attach the above created EBS volume to the instance you created in the previous steps.
 
 Article link: 
-https://www.linkedin.com/posts/abhinav-singh-9a4b211aa_awscloud-awscli-aws-activity-6721806404077842432-aInm
+https://www.linkedin.com/posts/abhinav-singh95_awscloud-awscli-aws-activity-6721806404077842432-A1ZX?utm_source=share&utm_medium=member_desktop
 
 Task 3
 
@@ -35,7 +35,7 @@ Task 3
 6.Provide the endpoint/connection string to the
 WordPress application to make it work.
 
-Article link:  https://www.linkedin.com/posts/abhinav-singh-9a4b211aa_awscloud-awscli-aws-activity-6727618736917942272-CkBy
+Article link:  https://www.linkedin.com/pulse/mysql-server-using-aws-rds-service-abhinav-singh
 
 Task 4
 Research on industrial use cases of AWS SQS and create a blog/article for the same.
@@ -54,4 +54,4 @@ The architecture includes -
 
 Article link: 
  
-https://www.linkedin.com/posts/abhinav-singh-9a4b211aa_vimaldaga-righteducation-educationredefine-activity-6820064110386978816-KRdu
+https://www.linkedin.com/pulse/create-high-availability-architecture-aws-cli-abhinav-singh
