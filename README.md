@@ -12,7 +12,9 @@ Task 1:
 
 Read at least one case study or stories of companies that got benefitted from AWS according to your interest field and then create a blog/article of the same.
 
-Article link:  https://www.linkedin.com/posts/abhinav-singh-9a4b211aa_cloud-aws-righteducation-activity-6820016657835053056-KmFh
+I have written an article on the case study of Netflix using AWS Cloud .
+
+Article link: https://www.linkedin.com/posts/abhinav-singh95_cloud-aws-righteducation-activity-6820016657835053056-UZTf?utm_source=share&utm_medium=member_desktop
 
 Task 2
 
@@ -40,7 +42,9 @@ Article link:  https://www.linkedin.com/pulse/mysql-server-using-aws-rds-service
 Task 4
 Research on industrial use cases of AWS SQS and create a blog/article for the same.
 
-Article link: https://www.linkedin.com/posts/abhinav-singh-9a4b211aa_vimaldaga-righteducation-educationredefine-activity-6820021348232949760--hyr
+ Here is an article on AWS SQS - Simple Queue Service, the article's main focus is on how SQS is used in Industries.
+
+Article link: https://www.linkedin.com/posts/abhinav-singh95_vimaldaga-righteducation-educationredefine-activity-6820021348232949760-CwPw?utm_source=share&utm_medium=member_desktop
 
 Task 5
 Create High Availability Architecture with AWS CLI 
